@@ -6,7 +6,7 @@
 
 ####All other columns follow the rule set outlined below.
 
-_bold_All column headings that begin with t(time) were captured at a constant rate of 50hz. 
+##bold##All column headings that begin with t(time) were captured at a constant rate of 50hz. 
 Those that begin with f had a fast fourier transform applied.
 
 They were partitioned into body(BodyAcc) and gravity(GravAcc) signals, Jerk signals (BodyAccJerk or BodyGyroJerk) and magnitude (…Mag) signals. 
