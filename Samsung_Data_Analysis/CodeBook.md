@@ -6,12 +6,12 @@
 
 ####All other columns follow the rule set outlined below.
 
-##bold##All column headings that begin with t(time) were captured at a constant rate of 50hz. 
-Those that begin with f had a fast fourier transform applied.
+All column headings that begin with _t(time)_ were captured at a constant rate of 50hz. 
+Those that begin with _f_ had a fast fourier transform applied.
 
-They were partitioned into body(BodyAcc) and gravity(GravAcc) signals, Jerk signals (BodyAccJerk or BodyGyroJerk) and magnitude (…Mag) signals. 
-XYZ endings indicate axis of measurement.
-The endings mean and std indicate whether the values are means or standard deviations.
+They were partitioned into body(_BodyAcc_) and gravity(_GravAcc_) signals, Jerk signals (_BodyAccJerk_ or _BodyGyroJerk_) and magnitude (…_Mag_) signals. 
+_XYZ_ endings indicate axis of measurement.
+The endings _mean_ and _std_ indicate whether the values are means or standard deviations.
 
 Some examples follow:
 
