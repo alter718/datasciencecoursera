@@ -1,3 +1,5 @@
+###Creates a tidy data table from 6 input files.
+
 The script run_analysis.R takes in a total of 6 files from the UCI HAR dataset.
 
 The subject files (test and train) are read in and row bound to create a listing of all User IDs.
