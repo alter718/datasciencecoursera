@@ -4,7 +4,7 @@
 
 #####ActivityID - self-explanatory. A description of the activity the user was doing when the data was collected.
 
-#####All other columns follow the rule set outlined below.
+#####All other columns follow the rule set outlined below. For each user and activity combination there is a single value provided that is the mean of all values collected for that user during that activity. The standard deviations are likewise the average of all standard deviations collected for that user during that activity.
 
 All column headings that begin with __t__(time) were captured at a constant rate of 50hz. 
 Those that begin with __f__ had a fast fourier transform applied.
